@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-    <category-def name="whole-enabling-features" label="Whole Platform Enabling Features 1.0.0.qualifier">
+    <category-def name="whole-enabling-features" label="Whole Platform Enabling Features 1.0.7.qualifier">
         <description>
             Provide functionalities required by one or more of the Whole features.
         </description>
