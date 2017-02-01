@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.wholeplatform</groupId>
     <artifactId>org.whole.product.ef.releng</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.7-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Whole Enabling Features</name>
     <description>The Whole Platform is a technology for engineering the production of software</description>
@@ -114,7 +114,7 @@
                         <artifact>
                             <groupId>com.wholeplatform</groupId>
                             <artifactId>org.whole.product.ef.target</artifactId>
-                            <version>1.0.0-SNAPSHOT</version>
+                            <version>1.0.7-SNAPSHOT</version>
                             <classifier>NEON_4_6_x</classifier>
                         </artifact>
                     </target>
